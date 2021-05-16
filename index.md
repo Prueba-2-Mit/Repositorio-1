@@ -1,3 +1,7 @@
+<html>
+<h1> Esta es mi primera página con GitHub Pages </h1>
+<p>¡Gracias GitHub!</p>
+</html>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Prueba-2-Mit/Repositorio-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
